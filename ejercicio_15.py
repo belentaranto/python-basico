@@ -1,7 +1,7 @@
 subjects = {
-    "Matemática" : 6,
-    "Física" : 4,
-    "Química" : 5
+    "Matemática" : 7,
+    "Física" : 3,
+    "Química" : 8
 }
 
 for i,k in subjects.items():
